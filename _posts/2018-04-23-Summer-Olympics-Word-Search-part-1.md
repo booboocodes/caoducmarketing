@@ -38,7 +38,7 @@ categoties: [Summer Word Search, Olympics]
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
 
-**More related posts of Summer Olympics Word Search:**
+**More related posts of Summer Olympics Word Search: **
 
 * [Summer Olympics Word Search - Part 1](http://summerwordsearches.info/2018/04/23/Summer-Olympics-Word-Search-part-1.html)
 * [Summer Olympics Word Search - Part 2](http://summerwordsearches.info/2018/04/23/Summer-Olympics-Word-Search-part-2.html)
